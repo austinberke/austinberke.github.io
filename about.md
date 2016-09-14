@@ -3,7 +3,7 @@ title: About
 layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
-<p>Hello! I'm Austin Berke, a proud UCLA Bruin expecting to receive a B.S. in Computer Science in 2019. I have been dabbling in technology of all sorts for longer than I can remember (I'm not lying: allegedly, I walked my Kindergarten teacher through sending a file by e-mail when she was stuck) and am always on the prowl for more knowledge. Music is my passion, and as a result most of my projects have been music-related – whether that be in the form of the <a href="#">social network I founded in high school</a> or the <a href="#">program I wrote to sync up lights in my room to any given song</a>. I hope to further pursue my curiosities over the years to come, documenting my findings here along the way.</p>
+<p>Hi! My name is Austin Berke, and I'm a proud UCLA Bruin expecting to graduate in 2019 with a Bachelor's degree in Computer Science. I have been dabbling in technology of all sorts for longer than I can remember (allegedly, in Kindergarten I walked my teacher through sending a file by e-mail when she couldn't figure it out) and am always on the prowl for more opportunities to learn. Music has always been a passion of mine, and as a result, most of my projects have been music-focused – whether that be in the form of the <a href="#">social network I founded in high school</a> or the <a href="#">program I wrote to sync up lights in my room to any given song</a>. I plan to further pursue my curiosities over the years to come, documenting my projects and little bits of insight here along the way.</p>
 
 <h2>Things I Do</h2>
 
