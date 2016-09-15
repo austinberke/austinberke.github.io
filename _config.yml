@@ -10,8 +10,7 @@ description: A blog of miscellaneous things that interest me
 external-image: false
 picture: assets/images/profile.jpg
 
-url: 
-# your url: http://USERNAME.github.io
+url: http://austinberke.com
 
 permalink: /:title/
 
