@@ -10,9 +10,9 @@ layout: page
 <ul class="skill-list">
 	<li>Software Development – C++</li>
 	<li>Web Development – HTML, CSS, PHP</li>
-	<li>*nix, comfortable with Vim</li>
+	<li>*nix, Vim, Bash Scripting</li>
 	<li>Git & GitHub</li>
-    <li>Google Suite & Microsoft Office</li>
+    <li>G Suite & Microsoft Office</li>
 	<li>Adobe Photoshop & Premiere</li>
 	<li>Entrepreneurship & Social Media Marketing</li>
 
